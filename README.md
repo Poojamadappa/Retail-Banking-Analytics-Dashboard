@@ -96,3 +96,48 @@ Analyzes transaction trends, merchant performance, transaction values, and custo
 ![Transaction Analytics](Screenshots/04_Transaction_Analytics.png)
 
 ---
+## 📂 Repository Structure
+
+```text
+Retail-Banking-Analytics-Dashboard
+│
+├── README.md
+├── Dataset/
+├── Code/
+├── Screenshots/
+└── Documentation/
+```
+## 📥 Download Power BI Dashboard
+
+The complete Power BI dashboard (.pbix) file is available here:
+
+🔗 **Download Dashboard:** *(https://drive.google.com/file/d/1qKFMffrt9c_OipyjB1lyxL790ZpoGZ38/view?usp=sharing)
+
+## 📊 Dataset
+
+This project uses a publicly available **Retail Banking Dataset** from Kaggle.
+
+Due to GitHub file size limitations, the complete transaction dataset is not included in this repository.
+
+The original dataset can be accessed from Kaggle.
+
+## 💡 Skills Demonstrated
+
+- Data Visualization
+- Dashboard Design
+- Data Modeling
+- Power Query
+- DAX Calculations
+- SQL Query Writing
+- Business Intelligence Reporting
+- Interactive Dashboard Development
+- Data Storytelling
+
+## 👩‍💻 Author
+
+**Pooja Madappa**
+
+- Data Analyst
+- Power BI Developer
+- SQL | Python | Azure
+- Based in Ireland
