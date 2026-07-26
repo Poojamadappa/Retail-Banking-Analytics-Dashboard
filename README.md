@@ -105,7 +105,6 @@ Retail-Banking-Analytics-Dashboard
 ├── Dataset/
 ├── Code/
 ├── Screenshots/
-└── Documentation/
 ```
 ## 📥 Download Power BI Dashboard
 
@@ -133,11 +132,30 @@ The original dataset can be accessed from Kaggle.
 - Interactive Dashboard Development
 - Data Storytelling
 
+## 📈 Key Business Insights
+
+The dashboard enables business users to quickly identify:
+
+- Customer demographics and account distribution
+- Loan portfolio performance and lending trends
+- Transaction volume and value across different years
+- Merchant performance and customer spending behavior
+- Key banking KPIs through an executive dashboard
+- Interactive drill-through analysis for deeper business insights
+
+## 🔮 Future Enhancements
+
+- Publish the dashboard to Power BI Service
+- Implement Row-Level Security (RLS)
+- Add incremental data refresh
+- Integrate real-time transaction data
+- Build mobile-optimized report layouts
+
 ## 👩‍💻 Author
 
 **Pooja Madappa**
 
 - Data Analyst
-- Power BI Developer
+- BI Analyst 
 - SQL | Python | Azure
 - Based in Ireland
